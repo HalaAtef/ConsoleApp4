@@ -1,10 +1,7 @@
 ﻿namespace ConsoleApp4
-{
-    
+{  
     public static class Extension
     {
-        
-
         public static string getName(this string name,string text)
         {
             return text +" "+ name;
